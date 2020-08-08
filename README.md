@@ -10,7 +10,7 @@ My name is João. I try to predict the future using data. 🔮
 - 🤔 I’m thinking about how to make machine learning more democratic.
 - 🎓 I'm pursuing a master's in computer science at Universidade de Fortaleza (Unifor).
 - 🌱 I’m currently learning about Deep Learning and Reinforcement Learning.
-- ⚡️ Fun fact: I hate mobile phone. ☹️
+- ⚡️ Fun fact: I hate mobile phones. ☹️
 
 ## 🔥 Interest
 - Machine Learning / Reinforcement Learning / Distributed Systems / SaaS / Entrepreneurship  
