@@ -8,7 +8,7 @@ My name is João. I try to predict the future using data. 🔮
 
 ## 👨🏻‍💻 About Me ##
 - 🤔 I’m thinking about how to make machine learning more democratic.
-- 🎓 I'm pursuing a master's in computer science at Universidade de Fortaleza (Unifor).
+- 🎓 I'm pursuing a master's in Applied Informatics at Universidade de Fortaleza (Unifor).
 - 🌱 I’m currently learning about Deep Learning and Reinforcement Learning.
 - ⚡️ Fun fact: I hate mobile phones. ☹️
 
