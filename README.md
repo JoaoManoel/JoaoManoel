@@ -17,7 +17,7 @@ My name is João. I try to predict the future using data. 🔮
 - Documentaries / Books / Food History / Sports / Stock Market
 
 ## 🧰 Tech Stack ##
-- 🛠 &nbsp; JavaScript | Node.js | Python | Java | Go | R (Statistics)
+- 🛠 &nbsp; JavaScript | Node.js | Python | Java | Go 
 - 🔩 &nbsp; PostgreSQL | MongoDB | Redis
 
 > "You must be the change you wish to see in the world." - Mahatma Gandhi.
