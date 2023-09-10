@@ -17,7 +17,7 @@ My name is João Manoel. I have over 7 years of experience as a software develop
 
 ## 🧰 Tech Stack ##
 - 🔨 &nbsp; Python | SQL | JavaScript | Node.js | Java | Go 
-- 🔩 &nbsp; PostgreSQL | MongoDB | Redis | Elasticsearch
+- 🔩 &nbsp; PostgreSQL | MySQL | MongoDB | Redis | Elasticsearch
 - 🪚 &nbsp; Spark | Databricks | Pandas | dbt
 - 🔧 &nbsp; Kubernetes (k8s) | Helm | Airflow | Kafka
 
