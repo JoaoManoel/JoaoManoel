@@ -1,24 +1,31 @@
 ## Olá! <img src="https://github.com/JoaoManoel/JoaoManoel/raw/master/Hi.gif" width="30px"></h2>
 
-My name is João. I try to predict the future using data. 🔮 
+My name is João Manoel. I have over 7 years of experience as a software developer. Currently, I am working as a Data Engineer.
 <br/>
 
 [![Mail Badge](https://img.shields.io/badge/-joaomanoellins@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaomanoellins@gmail.com)](mailto:joaomanoellins@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-joaomanoellins-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=http://kaggle.com/joaomanoellins)](https://kaggle.com/joaomanoellins) 
+[![Linkedin Badge](https://img.shields.io/badge/-joaomanoellins-20BEFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaomanoellins/)](https://www.linkedin.com/in/joaomanoellins/) 
+
 
 ## 👨🏻‍💻 About Me ##
-- 🤔 I’m thinking about how to make machine learning more democratic.
+- 🤔 I’m thinking about how to improve data usage to better drive decisions.
 - 🎓 I'm pursuing a master's in Applied Informatics at Universidade de Fortaleza (Unifor).
-- 🌱 I’m currently learning about Deep Learning and Reinforcement Learning.
-- ⚡️ Fun fact: I hate mobile phones. ☹️
 
 ## 🔥 Interest
-- Machine Learning / Reinforcement Learning / Distributed Systems / SaaS / Entrepreneurship  
+- Data Engineering / Distributed Systems / Entrepreneurship  
 - Documentaries / Books / Food History / Sports / Stock Market
 
 ## 🧰 Tech Stack ##
-- 🛠 &nbsp; JavaScript | Node.js | Python | Java | Go 
-- 🔩 &nbsp; PostgreSQL | MongoDB | Redis
+- 🔨 &nbsp; Python | SQL | JavaScript | Node.js | Java | Go 
+- 🔩 &nbsp; PostgreSQL | MongoDB | Redis | Elasticsearch
+- 🪚 &nbsp; Spark | Databricks | Pandas | dbt
+- 🔧 &nbsp; Kubernetes (k8s) | Helm | Airflow | Kafka
+
+## 💯 Certifications ##
+- Google Cloud Professional Data Engineer
+- Apache Airflow
+- Azure Data Fundamentals
+- AWS Academy Cloud Foundations
 
 > "You must be the change you wish to see in the world." - Mahatma Gandhi.
 
